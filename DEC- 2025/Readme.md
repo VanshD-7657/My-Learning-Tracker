@@ -2,7 +2,7 @@
 
 | Date | Day | Study Hours | Description (What I Learned) | Schedule Followed? |
 | :--- | :--- | :---: | :--- | :---: |
-| Dec 04 | Thursday |  | Explored Apache Spark, I also practiced Machine Learning-(Kaggle), Python(Leetcode), SQL(Leetcode or notes) | |
+| Dec 04 | Thursday | 5 | Explored Apache Spark, Tableau(Int),Amazon-Sales EDA(Kaggle),  | YES|
 | Dec 05 | Friday | 0 |  | - |
 | Dec 06 | Saturday | | | |
 | Dec 07 | Sunday | | | |

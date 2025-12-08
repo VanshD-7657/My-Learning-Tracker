@@ -6,7 +6,7 @@
 | Dec 05 | Friday | 5 | Diabetes Prediction - Competition on Kaggle (Rank[468]) + Explored Tableau (internship-tutorials) + LK. Post | YES |
 | Dec 06 | Saturday | 10.5| Learned Tableau -Func -Set -Groups + Dashboarding And Theory Revision (SQL+ML+DL+NLP) + LK. Post(2)| Yes |
 | Dec 07 | Sunday | 1 | Tableau + Updation in [Resume+GitHub+Portfolio] | No |
-| Dec 08 | Monday | | | |
+| Dec 08 | Monday | 1 | ExamPrep + Analyzed New Techn. + Lk. Post | No|
 | Dec 09 | Tuesday | | | |
 | Dec 10 | Wednesday | | | |
 | Dec 11 | Thursday | | | |

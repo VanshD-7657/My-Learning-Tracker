@@ -7,7 +7,7 @@
 | Dec 06 | Saturday | 10.5| Learned Tableau -Func -Set -Groups + Dashboarding And Theory Revision (SQL+ML+DL+NLP) + LK. Post(2)| Yes |
 | Dec 07 | Sunday | 1 | Tableau + Updation in [Resume+GitHub+Portfolio] | No |
 | Dec 08 | Monday | 1 | ExamPrep + Analyzed New Techn. + Lk. Post | No|
-| Dec 09 | Tuesday | | | |
+| Dec 09 | Tuesday | 1 | Python DSA (3 qu.) | Custom |
 | Dec 10 | Wednesday | | | |
 | Dec 11 | Thursday | | | |
 | Dec 12 | Friday | | | |

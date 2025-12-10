@@ -8,7 +8,7 @@
 | Dec 07 | Sunday | 1 | Tableau + Updation in [Resume+GitHub+Portfolio] | No |
 | Dec 08 | Monday | 1 | ExamPrep + Analyzed New Techn. + Lk. Post | No|
 | Dec 09 | Tuesday | 1 | Python DSA (3 qu.) | Custom |
-| Dec 10 | Wednesday | | | |
+| Dec 10 | Wednesday | 1 | Updation in Readme+ Analyzed Kaggle or Github or Linkedin Profiles | Custom |
 | Dec 11 | Thursday | | | |
 | Dec 12 | Friday | | | |
 | Dec 13 | Saturday | | | |

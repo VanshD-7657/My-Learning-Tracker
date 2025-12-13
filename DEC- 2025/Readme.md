@@ -11,7 +11,7 @@
 | Dec 10 | Wednesday | 1 | Updation in Readme+ Analyzed Kaggle or Github or Linkedin Profiles | Custom |
 | Dec 11 | Thursday | 4 | DSA (Easy) = 6 Python + 7 SQL. + Lk. Post | Custom |
 | Dec 12 | Friday | 4 |DSA (Easy) = 10 Python + 10 SQL. | Custom |
-| Dec 13 | Saturday | | | |
+| Dec 13 | Saturday | 10 | Apache Spark Completed + LK.Post | Yes|
 | Dec 14 | Sunday | | | |
 | Dec 15 | Monday | | | |
 | Dec 16 | Tuesday | | | |

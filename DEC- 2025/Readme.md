@@ -12,7 +12,7 @@
 | Dec 11 | Thursday | 4 | DSA (Easy) = 6 Python + 7 SQL. + Lk. Post | Custom |
 | Dec 12 | Friday | 4 |DSA (Easy) = 10 Python + 10 SQL. | Custom |
 | Dec 13 | Saturday | 10 | Apache Spark Completed + LK.Post | Yes|
-| Dec 14 | Sunday | | | |
+| Dec 14 | Sunday | 3 | Attended 2 hrs AITools Workshop-(10 AITools) + lk job searching + LK.Post| Custom |
 | Dec 15 | Monday | | | |
 | Dec 16 | Tuesday | | | |
 | Dec 17 | Wednesday | | | |

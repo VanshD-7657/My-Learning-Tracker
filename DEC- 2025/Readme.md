@@ -14,7 +14,7 @@
 | Dec 13 | Saturday | 10 | Apache Spark Completed + LK.Post | Yes|
 | Dec 14 | Sunday | 3 | Attended 2 hrs AITools Workshop-(10 AITools) + lk job searching + LK.Post| Custom |
 | Dec 15 | Monday | 1 | Placement Podcast + Guided a peer on starting their career journey in Data Science, shared learning approach or my Schedule | Yes|
-| Dec 16 | Tuesday | | | |
+| Dec 16 | Tuesday | 2  | Revised or Resolved 10-Python DSA + Lk. Post| No |
 | Dec 17 | Wednesday | | | |
 | Dec 18 | Thursday | | | |
 | Dec 19 | Friday | | | |

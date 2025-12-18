@@ -16,7 +16,7 @@
 | Dec 15 | Monday | 1 | Placement Podcast + Guided a peer on starting their career journey in Data Science, shared learning approach or my Schedule | Yes|
 | Dec 16 | Tuesday | 2  | Revised or Resolved 10-Python DSA + Lk. Post| No |
 | Dec 17 | Wednesday | 1 | Revised 3 Python DSA | Custom |
-| Dec 18 | Thursday | | | |
+| Dec 18 | Thursday | 8 | Interview Prep. + Internship Project(Kaggle) + Recived 2 kaggle badges Certificates + Lk. Post| Yes |
 | Dec 19 | Friday | | | |
 | Dec 20 | Saturday | | | |
 | Dec 21 | Sunday | | | |

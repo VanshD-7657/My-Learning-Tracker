@@ -17,7 +17,7 @@
 | Dec 16 | Tuesday | 2  | Revised or Resolved 10-Python DSA + Lk. Post| No |
 | Dec 17 | Wednesday | 1 | Revised 3 Python DSA | Custom |
 | Dec 18 | Thursday | 8 | Interview Prep. + Internship Project(Kaggle) + Recived 2 kaggle badges Certificates + Lk. Post| Yes |
-| Dec 19 | Friday | | | |
+| Dec 19 | Friday | 6.5 | Interview Prep. + Virtual Interview at AllHeart web Tech. CH + Recieved Bronze Medal on recent Pr. Ntbk on Kaggle | No |
 | Dec 20 | Saturday | | | |
 | Dec 21 | Sunday | | | |
 | Dec 22 | Monday | | | |

@@ -19,7 +19,7 @@
 | Dec 18 | Thursday | 8 | Interview Prep. + Internship Project(Kaggle) + Recived 2 kaggle badges Certificates + Lk. Post| Yes |
 | Dec 19 | Friday | 7.5 | Interview Prep. + Virtual Interview at AllHeart web Tech. CH + Recieved Bronze Medal on recent Pr. Ntbk on Kaggle + Lk. Post | No |
 | Dec 20 | Saturday | 2 | Learned Pyspark fundamentals | Custom |
-| Dec 21 | Sunday | | | |
+| Dec 21 | Sunday | 0.5 | Telephonic Interview | Custom |
 | Dec 22 | Monday | | | |
 | Dec 23 | Tuesday | | | |
 | Dec 24 | Wednesday | | | |

@@ -21,12 +21,12 @@
 | Dec 20 | Saturday | 2 | Learned Pyspark fundamentals | Custom |
 | Dec 21 | Sunday | 0.5 | Telephonic Interview | Custom |
 | Dec 22 | Monday | 0.5 | Linkedin Exploration + Job Search | Custom |
-| Dec 23 | Tuesday | | | |
-| Dec 24 | Wednesday | | | |
-| Dec 25 | Thursday | | | |
-| Dec 26 | Friday | | | |
-| Dec 27 | Saturday | | | |
-| Dec 28 | Sunday | | | |
-| Dec 29 | Monday | | | |
-| Dec 30 | Tuesday | | | |
-| Dec 31 | Wednesday | | | |
+| Dec 23 | Tuesday | | DUE TO WINTER VACATIONS - HOME|
+| Dec 24 | Wednesday | |HOME | |
+| Dec 25 | Thursday | | HOME| |
+| Dec 26 | Friday | |HOME | |
+| Dec 27 | Saturday | |HOME | |
+| Dec 28 | Sunday | |HOME | |
+| Dec 29 | Monday | |HOME | |
+| Dec 30 | Tuesday | | HOME| |
+| Dec 31 | Wednesday | | HOME| |

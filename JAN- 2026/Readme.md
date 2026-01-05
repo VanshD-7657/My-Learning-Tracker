@@ -6,7 +6,7 @@
 | **Jan 02** | Fri | | HOME | |
 | **Jan 03** | Sat | | HOME | |
 | **Jan 04** | Sun | | HOME | |
-| **Jan 05** | Mon | | | |
+| **Jan 05** | Mon | 5 | Learning PySpark Basics + Used Canva for LK. Post | Yes |
 | **Jan 06** | Tues | | | |
 | **Jan 07** | Wed | | | |
 | **Jan 08** | Thr | | | |

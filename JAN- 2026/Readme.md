@@ -7,7 +7,7 @@
 | **Jan 03** | Sat | | HOME | |
 | **Jan 04** | Sun | | HOME | |
 | **Jan 05** | Mon | 5 | Learning PySpark Basics + Used Canva for LK. Post | Yes |
-| **Jan 06** | Tues | | | |
+| **Jan 06** | Tues | 5  | Learning PySpark Intermediate Functions + The Compound Effect Book 12 pages Readed + LK. Post| Yes |
 | **Jan 07** | Wed | | | |
 | **Jan 08** | Thr | | | |
 | **Jan 09** | Fri | | | |

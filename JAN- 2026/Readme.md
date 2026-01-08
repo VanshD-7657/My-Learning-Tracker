@@ -9,7 +9,7 @@
 | **Jan 05** | Mon | 5 | Learning PySpark Basics + Used Canva for LK. Post | Yes |
 | **Jan 06** | Tues | 5  | Learning PySpark Intermediate Functions + The Compound Effect Book 12 pages Readed + LK. Post| Yes |
 | **Jan 07** | Wed | 5 | PySpark Completed + Resume Updation + Github Updated + LK. post | Yes|
-| **Jan 08** | Thr | | | |
+| **Jan 08** | Thr | 3 | Job Hunting + Resume Updation + Data Science Podcast + LK. engagement + Post| No |
 | **Jan 09** | Fri | | | |
 | **Jan 10** | Sat | | | |
 | **Jan 11** | Sun | | | |

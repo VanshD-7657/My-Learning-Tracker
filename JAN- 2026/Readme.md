@@ -11,7 +11,7 @@
 | **Jan 07** | Wed | 5 | PySpark Completed + Resume Updation + Github Updated + LK. post | Yes|
 | **Jan 08** | Thr | 3 | Job Hunting + Resume Updation + Data Science Podcast + LK. engagement + Post| No |
 | **Jan 09** | Fri | 1 | Job Hunting + Resume Updation + Data Science Podcast | No|
-| **Jan 10** | Sat | | | |
+| **Jan 10** | Sat | 1.5 | Interview Questions Theoretical Practice from Ineuron Profile -Repo + Lk. Post | Custom |
 | **Jan 11** | Sun | | | |
 | **Jan 12** | Mon | | | |
 | **Jan 13** | Tues | | | |

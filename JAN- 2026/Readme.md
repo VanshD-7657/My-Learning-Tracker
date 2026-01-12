@@ -13,7 +13,7 @@
 | **Jan 09** | Fri | 1 | Job Hunting + Resume Updation + Data Science Podcast | No|
 | **Jan 10** | Sat | 1.5 | Interview Questions Theoretical Practice from Ineuron Profile -Repo + Lk. Post | Custom |
 | **Jan 11** | Sun | 1 |Revised 118 -Complete MySQL Interview Questions From Krishnaik Repo | Custom |
-| **Jan 12** | Mon | | | |
+| **Jan 12** | Mon | 5 | Internship Project - Netflix Data Cleaning | Yes |
 | **Jan 13** | Tues | | | |
 | **Jan 14** | Wed | | | |
 | **Jan 15** | Thr | | | |

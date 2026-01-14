@@ -38,7 +38,7 @@ Click on the month below to view the detailed daily logs, study hours, and topic
 
 | Month | Year | Status | Key Focus |
 | :--- | :---: | :---: | :--- |
-| [**❄️ December**](./December_2025/README.md) | 2025 | ⚪ Completed | **Python, SQL, Machine-Learning, Consistency, Creativity** |
+| [**❄️ December**](https://github.com/VanshD-7657/My-Learning-Tracker/blob/main/DEC-%202025/Readme.md) | 2025 | ⚪ Completed | **Python, SQL, Machine-Learning, Consistency, Creativity** |
 | [**❄️ January**](https://github.com/VanshD-7657/My-Learning-Tracker/blob/main/JAN-%202026/Readme.md) | 2026 | 🟢 Active | ** PySpark, SQL, ML, Python, Competitions ** |
 
 ---

@@ -15,8 +15,8 @@
 | **Jan 11** | Sun | 1 |Revised 118 -Complete MySQL Interview Questions From Krishnaik Repo | Custom |
 | **Jan 12** | Mon | 5 | LOHRI Anchoring Prepration Internship Project - Netflix Data Cleaning + Portfolio Updation | Yes |
 | **Jan 13** | Tues | 1 | Due to Informal Anchoring on Lohri in Clg + Lk. Post | No |
-| **Jan 14** | Wed | 5 |SQL - Pizza Sales Project using MySql 10 questions from beginner to advance + Post | Yes |
-| **Jan 15** | Thr | | | |
+| **Jan 14** | Wed | 5 |SQL - Pizza Sales Project using MySql 10 questions from beginner to advance + Updation of GitHub Profile + Post | Yes |
+| **Jan 15** | Thr | 3 | SQL- LEETCODE (10) Practice + Post  | No |
 | **Jan 16** | Fri | | | |
 | **Jan 17** | Sat | | | |
 | **Jan 18** | Sun | | | |

@@ -17,7 +17,7 @@
 | **Jan 13** | Tues | 1 | Due to Informal Anchoring on Lohri in Clg + Lk. Post | No |
 | **Jan 14** | Wed | 5 |SQL - Pizza Sales Project using MySql 10 questions from beginner to advance + Updation of GitHub Profile + Post | Yes |
 | **Jan 15** | Thr | 3 | SQL- LEETCODE (10) Practice + Post  | No |
-| **Jan 16** | Fri | | | |
+| **Jan 16** | Fri | 3 | LLM's Exploration + Acheived Certificate of Appreciation + Mug + College File for Anchoring on Parivartan 2k25 + Post | No|
 | **Jan 17** | Sat | | | |
 | **Jan 18** | Sun | | | |
 | **Jan 19** | Mon | | | |

@@ -20,7 +20,7 @@
 | **Jan 16** | Fri | 3 | LLM's Exploration + Acheived Certificate of Appreciation + Mug + College File for Anchoring on Parivartan 2k25 + 4 SQL Ques. LEETCODE + Post | No |
 | **Jan 17** | Sat | 5.5| Internship or Job Exploration + Int. Project Grocery Sales + Post  | Custom|
 | **Jan 18** | Sun | 1 | Data Science Questions Practice + Exploring Tensorflow Repo (Open-Source) | Custom |
-| **Jan 19** | Mon | | | |
+| **Jan 19** | Mon | 5 | Data Science Questions Practice - 150 Python + 150 ML Easy to Hard + OPEN Source Exploration | Yes |
 | **Jan 20** | Tues | | | |
 | **Jan 21** | Wed | | | |
 | **Jan 22** | Thr | | | |

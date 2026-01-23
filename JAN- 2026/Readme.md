@@ -24,7 +24,7 @@
 | **Jan 20** | Tues | 4 | Data Science Questions Practice - 100 DL Easy to Medium + College Resume Updation + The Compound Effect(book) Completed  + Post | Yes|
 | **Jan 21** | Wed | 5 | Data Science Questions Practice - 50 DL Hard + 100 NLP Easy to Medium + 50 SQL Easy = 200 + 10 SQL Leetcode + POST | Yes |
 | **Jan 22** | Thr | 2 | Data Science Questions Practice - 20 ML + 10 SQL + LinkedIn Exp. + OpenSource Exp| No |
-| **Jan 23** | Fri | | | |
+| **Jan 23** | Fri | 2 | LikedIn Banner Creation | Custom |
 | **Jan 24** | Sat | | | |
 | **Jan 25** | Sun | | | |
 | **Jan 26** | Mon | | | |

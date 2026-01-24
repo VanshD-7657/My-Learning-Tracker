@@ -25,7 +25,7 @@
 | **Jan 21** | Wed | 5 | Data Science Questions Practice - 50 DL Hard + 100 NLP Easy to Medium + 50 SQL Easy = 200 + 10 SQL Leetcode + POST | Yes |
 | **Jan 22** | Thr | 2 | Data Science Questions Practice - 20 ML + 10 SQL + LinkedIn Exp. + OpenSource Exp| No |
 | **Jan 23** | Fri | 2 | LikedIn Banner Creation | Custom |
-| **Jan 24** | Sat | | | |
+| **Jan 24** | Sat | 1 | IBM Data Science Course | Custom |
 | **Jan 25** | Sun | | | |
 | **Jan 26** | Mon | | | |
 | **Jan 27** | Tues | | | |

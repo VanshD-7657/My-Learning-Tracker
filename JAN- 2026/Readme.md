@@ -26,7 +26,7 @@
 | **Jan 22** | Thr | 2 | Data Science Questions Practice - 20 ML + 10 SQL + LinkedIn Exp. + OpenSource Exp| No |
 | **Jan 23** | Fri | 2 | LikedIn Banner Creation | Custom |
 | **Jan 24** | Sat | 1 | IBM Data Science Course | Custom |
-| **Jan 25** | Sun | | | |
+| **Jan 25** | Sun | 2 | IBM Data Science Course + Post | Custom |
 | **Jan 26** | Mon | | | |
 | **Jan 27** | Tues | | | |
 | **Jan 28** | Wed | | | |

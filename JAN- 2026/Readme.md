@@ -27,7 +27,7 @@
 | **Jan 23** | Fri | 2 | LikedIn Banner Creation | Custom |
 | **Jan 24** | Sat | 1 | IBM Data Science Course | Custom |
 | **Jan 25** | Sun | 2 | IBM Data Science Course + Post | Custom |
-| **Jan 26** | Mon | | | |
+| **Jan 26** | Mon | 10 | IBM Data Science Course + 2 IBM Certificates + 2 Badges + 3Posts | Yes |
 | **Jan 27** | Tues | | | |
 | **Jan 28** | Wed | | | |
 | **Jan 29** | Thr | | | |

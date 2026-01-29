@@ -30,6 +30,6 @@
 | **Jan 26** | Mon | 10 | IBM Data Science Course + 2 IBM Certificates + 2 Badges + 3Posts | Yes |
 | **Jan 27** | Tues | 4.30 |IBM Data Science Course(Python) + Post | Yes |
 | **Jan 28** | Wed | 4.30 |IBM Data Science Course(Python Completed + Post) | Yes |
-| **Jan 29** | Thr | | | |
+| **Jan 29** | Thr | 3.30 | IBM Data Science Course - 2 IBM Certificates + 2 Badges(Python) + Post |No |
 | **Jan 30** | Fri | | | |
 | **Jan 31** | Sat | | | |

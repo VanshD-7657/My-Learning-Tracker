@@ -3,7 +3,7 @@
 | Date | Day | Study Hours | Description (What I Learned) | Schedule Followed? |
 | :--- | :--- | :---: | :--- | :---: |
 | **Feb 01** | Sun | 0.5 | File Creations + LinkedinIn Exploration + Post | Custom | 
-| **Feb 02** | Mon | | | |
+| **Feb 02** | Mon | 4.5 | IBM DS Course ( SQL - DB_API and all) + Post | Yes |
 | **Feb 03** | Tue | | | |
 | **Feb 04** | Wed | | | |
 | **Feb 05** | Thu | | | |

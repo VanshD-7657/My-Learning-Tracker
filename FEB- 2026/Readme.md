@@ -1,4 +1,4 @@
-# ❄️ January 2026 - Progress Log
+# ❄️ February 2026 - Progress Log
 
 | Date | Day | Study Hours | Description (What I Learned) | Schedule Followed? |
 | :--- | :--- | :---: | :--- | :---: |

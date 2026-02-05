@@ -5,8 +5,8 @@
 | **Feb 01** | Sun | 0.5 | File Creations + LinkedinIn Exploration + Post | Custom | 
 | **Feb 02** | Mon | 5 | IBM DS Course ( SQL - DB_API and all) + 2 Posts | Yes |
 | **Feb 03** | Tue | 4.5 | IBM DS Course (Data Analysis with Python) + Achieved Certificate + Badge in Databases and SQL for Data Science with Python + 2 Posts | Yes |
-| **Feb 04** | Wed | 4.5 | IBM DS Course (Data Analysis with Python) + Post | Yes |
-| **Feb 05** | Thu | | | |
+| **Feb 04** | Wed | 5 | IBM DS Course (Data Analysis with Python) + Post | Yes |
+| **Feb 05** | Thu | 5 | IBM DS Course (Data Analysis with Python) + Post | Yes |
 | **Feb 06** | Fri | | | |
 | **Feb 07** | Sat | | | |
 | **Feb 08** | Sun | | | |

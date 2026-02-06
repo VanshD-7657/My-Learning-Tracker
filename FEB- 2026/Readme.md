@@ -7,7 +7,7 @@
 | **Feb 03** | Tue | 4.5 | IBM DS Course (Data Analysis with Python) + Achieved Certificate + Badge in Databases and SQL for Data Science with Python + 2 Posts | Yes |
 | **Feb 04** | Wed | 5 | IBM DS Course (Data Analysis with Python) + Post | Yes |
 | **Feb 05** | Thu | 5 | IBM DS Course (Data Analysis with Python) + Post | Yes |
-| **Feb 06** | Fri | | | |
+| **Feb 06** | Fri | 3 | IBM DS Course (Data Visualization with Python) + Achieved Certificate & Badge in Data Analysis with Python  + Post  | No |
 | **Feb 07** | Sat | | | |
 | **Feb 08** | Sun | | | |
 | **Feb 09** | Mon | | | |

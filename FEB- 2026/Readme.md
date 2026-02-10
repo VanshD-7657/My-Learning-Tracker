@@ -11,7 +11,7 @@
 | **Feb 07** | Sat | | Friend's Home | | 
 | **Feb 08** | Sun | | NOTHING (MOVIE DAY- JURASSIC) | |
 | **Feb 09** | Mon | 5 | IBM DS Course (Data Visualization with Python) + 2 Posts(Books + Course Progress) | Yes |
-| **Feb 10** | Tue | | | |
+| **Feb 10** | Tue | 5 | IBM DS Course (Data Visualization with Python) | Yes-Exceeded |
 | **Feb 11** | Wed | | | |
 | **Feb 12** | Thu | | | |
 | **Feb 13** | Fri | | | |

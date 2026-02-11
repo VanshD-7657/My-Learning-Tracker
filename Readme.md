@@ -39,8 +39,8 @@ Click on the month below to view the detailed daily logs, study hours, and topic
 | Month | Year | Status | Key Focus |
 | :--- | :---: | :---: | :--- |
 | [**❄️ December**](https://github.com/VanshD-7657/My-Learning-Tracker/blob/main/DEC-%202025/Readme.md) | 2025 | ⚪ Completed | **Python, SQL, Machine-Learning, Consistency, Creativity** |
-| [**❄️ January**](https://github.com/VanshD-7657/My-Learning-Tracker/blob/main/JAN-%202026/Readme.md) | 2026 | ⚪ Completed  | ** PySpark, SQL, ML, Python, Competitions **|
-| [**❄️ February**](https://github.com/VanshD-7657/My-Learning-Tracker/blob/main/FEB-%202026/Readme.md) | 2026 | 🟢 Active | ** IBM Professional Data Science Course ** |
+| [**❄️ January**](https://github.com/VanshD-7657/My-Learning-Tracker/blob/main/JAN-%202026/Readme.md) | 2026 | ⚪ Completed  | **PySpark, SQL, ML, Python, Competitions**|
+| [**❄️ February**](https://github.com/VanshD-7657/My-Learning-Tracker/blob/main/FEB-%202026/Readme.md) | 2026 | 🟢 Active | **IBM Professional Data Science Course** |
 
 ---
 

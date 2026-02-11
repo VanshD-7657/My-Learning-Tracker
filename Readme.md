@@ -39,7 +39,8 @@ Click on the month below to view the detailed daily logs, study hours, and topic
 | Month | Year | Status | Key Focus |
 | :--- | :---: | :---: | :--- |
 | [**❄️ December**](https://github.com/VanshD-7657/My-Learning-Tracker/blob/main/DEC-%202025/Readme.md) | 2025 | ⚪ Completed | **Python, SQL, Machine-Learning, Consistency, Creativity** |
-| [**❄️ January**](https://github.com/VanshD-7657/My-Learning-Tracker/blob/main/JAN-%202026/Readme.md) | 2026 | 🟢 Active | ** PySpark, SQL, ML, Python, Competitions ** |
+| [**❄️ January**](https://github.com/VanshD-7657/My-Learning-Tracker/blob/main/JAN-%202026/Readme.md) | 2026 | ⚪ Completed  | **PySpark, SQL, ML, Python, Competitions**|
+| [**❄️ February**](https://github.com/VanshD-7657/My-Learning-Tracker/blob/main/FEB-%202026/Readme.md) | 2026 | 🟢 Active | **IBM Professional Data Science Course** |
 
 ---
 
@@ -60,7 +61,7 @@ I am currently dedicating my time to mastering:
 
 * **Languages:** 🐍 Python, 🗄️ SQL
 * **Libraries:** Pandas, NumPy, Scikit-Learn, PyMongo
-* **Domains:** Machine Learning, Deep Learning, NLP
+* **Domains:** Data Science, Machine Learning, Deep Learning, NLP
 * **Tools:** Git, GitHub, Jupyter Notebooks, ApacheSpark
 
 ---

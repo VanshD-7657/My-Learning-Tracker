@@ -12,8 +12,8 @@
 | **Feb 08** | Sun | | NOTHING (MOVIE DAY- JURASSIC) | |
 | **Feb 09** | Mon | 5 | IBM DS Course (Data Visualization with Python) + 2 Posts(Books + Course Progress) | Yes |
 | **Feb 10** | Tue | 5 | IBM DS Course (Data Visualization with Python) | Yes-Exceeded |
-| **Feb 11** | Wed | 3.30 | IBM DS Course (Machine Learning Using Python) + Achieved Certificate & Badge in Data Visualization with Python + 2 Posts | Yes|
-| **Feb 12** | Thu | | | |
+| **Feb 11** | Wed | 3.30 | IBM DS Course (Machine Learning Using Python) + Achieved Certificate & Badge in Data Visualization with Python + 2 Posts | Yes |
+| **Feb 12** | Thu | 4.30 | IBM DS Course (Machine Learning Using Python) | Yes |
 | **Feb 13** | Fri | | | |
 | **Feb 14** | Sat | | | |
 | **Feb 15** | Sun | | | |

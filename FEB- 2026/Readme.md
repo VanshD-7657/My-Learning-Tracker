@@ -14,7 +14,7 @@
 | **Feb 10** | Tue | 5 | IBM DS Course (Data Visualization with Python) | Yes-Exceeded |
 | **Feb 11** | Wed | 3.30 | IBM DS Course (Machine Learning Using Python) + Achieved Certificate & Badge in Data Visualization with Python + 2 Posts | Yes |
 | **Feb 12** | Thu | 4.30 | IBM DS Course (Machine Learning Using Python) | Yes |
-| **Feb 13** | Fri | | | |
+| **Feb 13** | Fri | 5.30 | IBM DS Course ( 1.ML + 2.DS Capstone Project) + Achieved Certificate & Badge in Machine Learning Using Python + 2 Posts | Yes |
 | **Feb 14** | Sat | | | |
 | **Feb 15** | Sun | | | |
 | **Feb 16** | Mon | | | |

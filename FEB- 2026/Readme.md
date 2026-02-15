@@ -16,7 +16,7 @@
 | **Feb 12** | Thu | 4.30 | IBM DS Course (Machine Learning Using Python) | Yes |
 | **Feb 13** | Fri | 5.30 | IBM DS Course ( 1.ML + 2.DS Capstone Project) + Achieved Certificate & Badge in Machine Learning Using Python + 2 Posts | Yes |
 | **Feb 14** | Sat | 3.30 | IBM DS Course ( 1.DS Capstone Project + 2. Generative AI) + Post (6106-Followers Cel.)| No |
-| **Feb 15** | Sun | | | |
+| **Feb 15** | Sun | 2.30 | IBM DS Course ( 1.DS Capstone Project Report Completed) + Achieved Certificate & Badge in DS Capstone Project + 2 Posts | Custom |
 | **Feb 16** | Mon | | | |
 | **Feb 17** | Tue | | | |
 | **Feb 18** | Wed | | | |

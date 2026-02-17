@@ -18,7 +18,7 @@
 | **Feb 14** | Sat | 3.30 | IBM DS Course ( 1.DS Capstone Project + 2. Generative AI) + Post (6106-Followers Cel.)| No |
 | **Feb 15** | Sun | 2.30 | IBM DS Course ( 1.DS Capstone Project Report Completed) + Achieved Certificate & Badge in DS Capstone Project + 2 Posts | Custom |
 | **Feb 16** | Mon | 3.30 | IBM DS Course (Generative AI: Elevate Your Data Science Career Completed) + Achieved Certificate & Badge in Generative AI: Elevate Your Data Science Career + 2 Posts | No |
-| **Feb 17** | Tue | | | |
+| **Feb 17** | Tue | 5 | IBM-(Interview Prepration Course) + IBM Data Science Professional Course Completed + Earned Prof. Certificate + 2 Posts| Yes-Exceeded |
 | **Feb 18** | Wed | | | |
 | **Feb 19** | Thu | | | |
 | **Feb 20** | Fri | | | |

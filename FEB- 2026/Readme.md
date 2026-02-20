@@ -20,8 +20,8 @@
 | **Feb 16** | Mon | 3.30 | IBM DS Course (Generative AI: Elevate Your Data Science Career Completed) + Achieved Certificate & Badge in Generative AI: Elevate Your Data Science Career + 2 Posts | No |
 | **Feb 17** | Tue | 5 | IBM-(Interview Prepration Course) + IBM Data Science Professional Course Completed + Earned Prof. Certificate + 2 Posts| Yes-Exceeded |
 | **Feb 18** | Wed | 2.30 | Updation of - 1.GitHub + 2.Resume + 3.Portfolio + Book Reading (Power of Your Subconcious Mind) + Post| Yes |
-| **Feb 19** | Thu | 0.30 |(MST Time) Student Life LinkedIn Post | Custom|
-| **Feb 20** | Fri | | | |
+| **Feb 19** | Thu | 2 |(MST Time) RajShamani with France President Podcast Student Life LinkedIn Post + Podcast Post | Custom|
+| **Feb 20** | Fri | 0.30 | LinkedIn Engagement + Post| Custom|
 | **Feb 21** | Sat | | | |
 | **Feb 22** | Sun | | | |
 | **Feb 23** | Mon | | | |

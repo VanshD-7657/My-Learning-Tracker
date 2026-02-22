@@ -23,7 +23,7 @@
 | **Feb 19** | Thu | 2 |(MST Time) RajShamani with France President Podcast Student Life LinkedIn Post + Podcast Post | Custom|
 | **Feb 20** | Fri | 0.30 | LinkedIn Engagement + Post| Custom|
 | **Feb 21** | Sat | 1 | Job Searching + Post | Custom |
-| **Feb 22** | Sun | | | |
+| **Feb 22** | Sun | 1 | Portfolio Updation + Job Searching + Post | Custom |
 | **Feb 23** | Mon | | | |
 | **Feb 24** | Tue | | | |
 | **Feb 25** | Wed | | | |

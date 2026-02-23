@@ -24,7 +24,7 @@
 | **Feb 20** | Fri | 0.30 | LinkedIn Engagement + Post| Custom|
 | **Feb 21** | Sat | 1 | Job Searching + Post | Custom |
 | **Feb 22** | Sun | 1 | Portfolio Updation + Job Searching + Post | Custom |
-| **Feb 23** | Mon | | | |
+| **Feb 23** | Mon | 0.30 | LinkedIn Engagement + Job Searching | Custom |
 | **Feb 24** | Tue | | | |
 | **Feb 25** | Wed | | | |
 | **Feb 26** | Thu | | | |
